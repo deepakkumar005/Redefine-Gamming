@@ -1,9 +1,7 @@
 <div align="center">
   <br />
-    <a>
+
    ![image](https://github.com/user-attachments/assets/6e0e7291-dbc1-4921-8c6f-b54359d409b1)
-    </a>
-  <br />
 
   <h3 align="center">An Redefine Gamming</h3>
 
