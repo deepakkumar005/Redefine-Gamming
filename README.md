@@ -1,7 +1,8 @@
 <div align="center">
   <br />
     <a>
-      <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
+      <img src=![image](https://github.com/user-attachments/assets/6e0e7291-dbc1-4921-8c6f-b54359d409b1)
+ alt="Project Banner">
     </a>
   <br />
 
